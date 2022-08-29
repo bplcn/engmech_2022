@@ -3,15 +3,15 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "理论力学笔记"
-@def website_descr = "theomech"
-@def website_url   = "https://bplcn.github.io/theomech/"
+@def website_title = "工程力学笔记"
+@def website_descr = "engmech_2022"
+@def website_url   = "https://bplcn.github.io/engmech_2022/"
 
 @def author = "Pei-Liang Bian"
 
 @def mintoclevel = 2
 
-@def prepath = "theomech"
+@def prepath = "engmech_2022"
 
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise
