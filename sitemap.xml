@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+    <loc>https://bplcn.github.io/theomech/ch1/index.html</loc>
+    <lastmod>2022-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://bplcn.github.io/theomech/404/index.html</loc>
+    <lastmod>2022-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://bplcn.github.io/theomech/Intro/index.html</loc>
+    <lastmod>2022-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://bplcn.github.io/theomech/ch2/index.html</loc>
+    <lastmod>2022-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://bplcn.github.io/theomech/config%20%28%E6%9D%A5%E8%87%AABIANSDUET%E7%9A%84%E5%86%B2%E7%AA%81%E5%89%AF%E6%9C%AC%202022-08-29_07.48.23%29/index.html</loc>
+    <lastmod>2022-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://bplcn.github.io/theomech/index.html</loc>
+    <lastmod>2022-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+</urlset>
