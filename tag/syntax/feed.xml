@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  理论力学笔记  ]]>
+      <![CDATA[  工程力学笔记  ]]>
     </title>
-    <link> https://bplcn.github.io/theomech/ </link>
+    <link> https://bplcn.github.io/engmech_2022/ </link>
     <description>
-      <![CDATA[  theomech  ]]>
+      <![CDATA[  engmech_2022  ]]>
     </description>
     <atom:link
-      href="https://bplcn.github.io/theomech/feed.xml"
+      href="https://bplcn.github.io/engmech_2022/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  基本概念和原理  ]]>
   </title>
-  <link> https://bplcn.github.io/theomech/ch1/index.html </link>
-  <guid> https://bplcn.github.io/theomech/ch1/index.html </guid>
+  <link> https://bplcn.github.io/engmech_2022/ch1/index.html </link>
+  <guid> https://bplcn.github.io/engmech_2022/ch1/index.html </guid>
   <description>
     <![CDATA[  基本概念和原理  ]]>
   </description>  
@@ -44,8 +44,8 @@
   <title>
     <![CDATA[  力系的简化  ]]>
   </title>
-  <link> https://bplcn.github.io/theomech/ch2/index.html </link>
-  <guid> https://bplcn.github.io/theomech/ch2/index.html </guid>
+  <link> https://bplcn.github.io/engmech_2022/ch2/index.html </link>
+  <guid> https://bplcn.github.io/engmech_2022/ch2/index.html </guid>
   <description>
     <![CDATA[  力系的简化  ]]>
   </description>  

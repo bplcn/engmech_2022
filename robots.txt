@@ -1,4 +1,4 @@
-Sitemap: https://bplcn.github.io/theomech/sitemap.xml
+Sitemap: https://bplcn.github.io/engmech_2022/sitemap.xml
 
 User-agent: *
 Disallow:
