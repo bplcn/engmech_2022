@@ -2,32 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>https://bplcn.github.io/engmech_2022/ch1a/index.html</loc>
+    <lastmod>2022-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://bplcn.github.io/engmech_2022/ch1/index.html</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://bplcn.github.io/engmech_2022/404/index.html</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://bplcn.github.io/engmech_2022/Intro/index.html</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://bplcn.github.io/engmech_2022/ch2/index.html</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://bplcn.github.io/engmech_2022/index.html</loc>
-    <lastmod>2022-08-29</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
